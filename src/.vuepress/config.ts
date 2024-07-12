@@ -2,7 +2,7 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  dest: "./xfg-dev-tech-blog/nginx/html",
+  dest: "./nginx/html",
   base: "/",
 
   lang: "zh-CN",
